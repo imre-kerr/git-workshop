@@ -301,7 +301,7 @@ Alt må renses. Derfor:
 1. Commit og push (feature/midlertidig branch er fint)
 
 **En person:**
-2. `git fetch`, og så `git checkout {branch}` for hver remote-branch  
+2. `git fetch`, og så `git switch {branch}` for hver remote-branch
 3. Kjør BFG  
 4. `git push --force --all`  
 5. `git push --force --tags`
