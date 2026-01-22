@@ -105,8 +105,6 @@ Ultimat multiverktøy:
 git rebase --interactive [--onto <newbase>] <upstream> [<branch>]
 ```
 
-Og dokumentasjonen er faktisk bra nå!
-
 <!-- Lett å skape problemer her…
 
 Reset uten args skriver ikke om historikk.
@@ -117,7 +115,10 @@ Reset uten args skriver ikke om historikk.
 - Slå sammen commits
 - Splitte opp commits (bruk “edit”!)
 - Endre rekkefølge på commits
-- Rette på commits lengre bak i historikken -->
+- Rette på commits lengre bak i historikken 
+
+Anbefaler å lese docs på rebase. Den er omfattende og forklarer godt.
+-->
 
 ---
 <!-- _class: lead --->
