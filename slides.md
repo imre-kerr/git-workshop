@@ -17,7 +17,7 @@ style: |
 
 # Git for (litt) viderekomne
 
-*En praktisk rettet titt under panseret*
+*En praktisk guide til å lage rot og fikse opp i det*
 
 Imre Kerr
 
@@ -30,6 +30,33 @@ Imre Kerr
 Men å lære abstrakte ting er vanskelig uten knagger å henge på.
 Derfor holder vi det praktisk for nå.
 -->
+
+---
+
+## Recap av basics
+
+* Start: `git init`
+* Lagre arbeidet ditt: `git add` og `git commit`
+* Jobb med remotes: `git push` og `git pull`
+* Branching: `git switch` og `git merge`
+
+<!--
+
+init: gjøres én gang, men må skje for at en mappe skal være et git-repo
+
+add/commit: 
+    Nybegynnere lurer ofte på hvorfor dette er separate kommandoer.
+    Dette er fordi man ikke alltid har lyst til å ta med alle endringer i en commit.
+
+push/pull:
+    Igjen: "Hvorfor må jeg pushe? Skal ikke greiene mine være lagret i git når jeg kjører commit?"
+    Blander git med github. Git er desentralisert, og github (og stash, gitlab etc) er bare tjenester som kjører git.
+    Kunne også pushet til og pullet fra laptopen til sidemannen (gitt ssh-tilgang)
+
+Livet uten branching: Sånn brukte vi git første gangen jeg tok i det (2012?)
+Merge-konflikter hele tida, utkommentert brukket kode fordi ting ikke var klare ennå...
+Bruk branches. De er hele grunnen til at Git erstattet eldre versjonskontrollsystemer.
+--->
 
 ---
 
