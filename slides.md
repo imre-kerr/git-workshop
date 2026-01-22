@@ -175,8 +175,8 @@ git bisect skip
 ---
 <!-- _class: dense -->
 
-![bg right:40% vertical fit](./log.jpg)
-![bg fit](./log_with_reflog.jpg)
+![bg right:40% vertical fit](./images/log.jpg)
+![bg fit](./images/log_with_reflog.jpg)
 
 
 ## Finne unreachable commits
@@ -212,7 +212,7 @@ Kan GUI-verktøyet ditt gjøre det kanskje? (Seriøst, kan det? For jeg vet ikke
 
 ---
 
-![bg right:25% fit](./github_create_branch.jpg)
+![bg right:25% fit](./images/github_create_branch.jpg)
 
 
 ## Finne igjen unreachable commits… på GitHub
