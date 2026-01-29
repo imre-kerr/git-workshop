@@ -240,6 +240,7 @@ Kan GUI-verktøyet ditt gjøre det kanskje? (Seriøst, kan det? For jeg vet ikke
 
 ---
 
+<!-- _class: dense -->
 ![bg right:25% fit](./images/github_create_branch.jpg)
 
 
@@ -357,11 +358,13 @@ https://git-scm.com/book/en/v2
 
 ## Tid for oppgaver!
 
-Last ned oppgaver og slides:
+Oppgaver og slides:
 
 ```text
-https://bit.ly/3wCkAh4
+https://github.com/imre-kerr-sb1/git-workshop
 ```
+
+Åpne i Coder, kjør `./init.sh`. Oppgavene ligger nå i `/workspace`
 
 - Jobb gjerne i par/små grupper
 - Flere av oppgavene kan løses på flere måter. Diskuter pros/cons.
